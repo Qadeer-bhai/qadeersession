@@ -57,21 +57,12 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by QADEER*
+*_Pair Code Connected by KHAN BHAI*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN QADEER BOTS 』*
+║ *『 ALL OUR BOTS 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
-╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@tofanmods7
-║❒ *Owner:* _https://wa.me/923079749129
-║❒ *Repo:* _https://github.com/Qadeer-bhai/TOFAN-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A
-║❒ *Plugins:* _https://github.com/Qadeer-bhai/TOFAN-MD-PLUGINS_
 ╚════════════════════════╝
 _____________________________________
 
